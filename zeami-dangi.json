@@ -6,7 +6,12 @@
  "yomi": "さるがくだんぎ",
  "category": "能・狂言",
  "kind": "noh",
- "description": null,
+ "description": {
+  "kind": "能楽論（聞書）",
+  "era": "永享2年（1430）",
+  "author": "世阿弥の談話を次男元能が筆録",
+  "desc": "六十歳以後の世阿弥の芸談を書き留めたもので、当時の能の実際を伝える。"
+ },
  "editions": [
   {
    "pid": "859394",
